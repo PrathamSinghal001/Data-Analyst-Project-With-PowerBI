@@ -9,7 +9,7 @@ This repository showcases a collection of data analytics projects developed usin
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Power%20BI](https://img.shields.io/badge/Built%20With-Power%20BI-yellow)
 ![Data%20Analytics](https://img.shields.io/badge/Focus-Data%20Analytics-orange)
-![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/Data-Analyst-Project-With-PowerBI?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/PrathamSinghal001/Data-Analyst-Project-With-PowerBI?style=social)
 
 
 ---
