@@ -25,6 +25,8 @@ This repository showcases a collection of data analytics projects developed usin
 - *Freelancer Project*  
   A freelance project demonstrating data cleaning, analysis, visualization, and storytelling techniques with a real-world dataset.
 
+- *Social Media Sentiment Analysis Dashboard*
+  This project presents a detailed sentiment analysis across multiple social media platforms — *Facebook, **Instagram, and **Twitter*. Using metrics like likes, retweets, hashtags, user activity, and country distribution, the dashboards offer a comprehensive overview of social media engagement and sentiment trends.
 ---
 
 ## Features
