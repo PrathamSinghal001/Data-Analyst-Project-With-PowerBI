@@ -1,8 +1,6 @@
 🍕 Pizza Sales Analysis - Power BI Dashboard
 
-
-![Power BI](https://img.shields.io/badge/PowerBI-Data%20Visualization-yellow) 
-![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue) 🍕✨  
+ 
 ![Power BI](https://img.shields.io/badge/PowerBI-Data%20Visualization-yellow) 
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue) 
 ![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-orange) 
