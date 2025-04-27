@@ -17,16 +17,16 @@ This repository showcases a collection of data analytics projects developed usin
 ## Projects Included
 
 - *Pizza Sales Data Analytics Project*  
-  Analyze pizza sales to uncover trends, top-selling items, customer behavior patterns, and sales performance over time.
+   - Analyze pizza sales to uncover trends, top-selling items, customer behavior patterns, and sales performance over time.
 
 - *Dairy Goods Products Data Analytics Project*  
-  Explore dairy products sales to derive insights into inventory management, seasonal trends, and key sales drivers.
+   - Explore dairy products sales to derive insights into inventory management, seasonal trends, and key sales drivers.
 
 - *Freelancer Project*  
-  A freelance project demonstrating data cleaning, analysis, visualization, and storytelling techniques with a real-world dataset.
+   - A freelance project demonstrating data cleaning, analysis, visualization, and storytelling techniques with a real-world dataset.
 
 - *Social Media Sentiment Analysis Dashboard*
-  This project presents a detailed sentiment analysis across multiple social media platforms — *Facebook, **Instagram, and **Twitter*. Using metrics like likes, retweets, hashtags, user activity, and country distribution, the dashboards offer a comprehensive overview of social media engagement and sentiment trends.
+   - This project presents a detailed sentiment analysis across multiple social media platforms — *Facebook, **Instagram, and **Twitter*. Using metrics like likes, retweets, hashtags, user activity, and country distribution, the dashboards offer a comprehensive overview of social media engagement and sentiment trends.
 ---
 
 ## Features
