@@ -9,10 +9,16 @@ This project presents a detailed sentiment analysis across multiple social media
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Power%20BI](https://img.shields.io/badge/Built%20With-Power%20BI-yellow)
 ![Data%20Analytics](https://img.shields.io/badge/Focus-Data%20Analytics-orange)
-![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/Data-Analyst-Project-With-PowerBI?style=social)
 
 
+**Dashboard 1**
+![Pizza Sales Dashboard](https://github.com/PrathamSinghal001/Data-Analyst-Project-With-PowerBI/blob/14b691d944989375ac82c5780f8b2a500612f435/Social%20Media%20Sentiments%20Project/Screenshot%202025-04-27%20220822.png)
 
+**Dashboard 2**
+![Pizza Sales Dashboard](https://github.com/PrathamSinghal001/Data-Analyst-Project-With-PowerBI/blob/14b691d944989375ac82c5780f8b2a500612f435/Social%20Media%20Sentiments%20Project/Screenshot%202025-04-27%20220833.png)
+
+**Dashboard 3**
+![Pizza Sales Dashboard](https://github.com/PrathamSinghal001/Data-Analyst-Project-With-PowerBI/blob/14b691d944989375ac82c5780f8b2a500612f435/Social%20Media%20Sentiments%20Project/Screenshot%202025-04-27%20220851.png)
 
 
 The analysis focuses on:
