@@ -11,11 +11,11 @@
 
 📸 Dashboard Previews
 
-📊 Dashboard 1: Freelancer Market Insights
-![Freelancer Dashboard 1](link-to-your-uploaded-first-image.png)
+📊 Dashboard 1: Freelancer Geo-Location and Hourly Analysis
+![Freelancer Dashboard 1](https://github.com/PrathamSinghal001/Data-Analyst-Project-With-PowerBI/blob/a532256cc57f687b8bf555c99ca9a9c2027a8454/Freelancer%20Project/freelancer%202.jpg)
 
-📊 Dashboard 2: Freelancer Geo-Location and Hourly Analysis
-![Freelancer Dashboard 2](link-to-your-uploaded-second-image.png)
+📊 Dashboard 2: Freelancer Market Insights
+![Freelancer Dashboard 2](https://github.com/PrathamSinghal001/Data-Analyst-Project-With-PowerBI/blob/a532256cc57f687b8bf555c99ca9a9c2027a8454/Freelancer%20Project/freelancer%201.jpg)
 
 ---
 
