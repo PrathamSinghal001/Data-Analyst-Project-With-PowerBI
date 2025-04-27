@@ -8,8 +8,6 @@
 ![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-orange)
 
 
-![Dairy Sales Dashboard]("D:\OneDrive\python projects files\data analytics\Dairy Project .jpg")
-![Dashboard Preview](https://github.com/yourusername/your-repository-name/blob/main/dashboard.png?raw=true)
 ![Dashboard Preview](https://github.com/yourusername/your-repository-name/blob/main/dashboard.png?raw=true)
 
 
@@ -34,14 +32,14 @@ It is designed to help businesses understand which products, brands, and locatio
 ---
 
 📊 Dashboard Features
-- Bar Chart: Total Land Area vs. Number of Cows by Location
-- Bar Chart: Average Shelf Life by Storage Condition
-- Stacked Bar Chart: Product-wise Quantity Sold by Sales Channel (Online, Retail, Wholesale)
-- Card Visuals: Highlighting top Product, Top Brand, and Top Location
-- Table: Shelf Life details by Product
-- Bar Chart: Expiration Date Count by Product Name
-- Treemap: Revenue Distribution by Brand and Location
-- Pie Chart: Brand Market Share
+- **Bar Chart:** Total Land Area vs. Number of Cows by Location
+- **Bar Chart:** Average Shelf Life by Storage Condition
+- **Stacked Bar Chart:** Product-wise Quantity Sold by Sales Channel (Online, Retail, Wholesale)
+- **Card Visuals:** Highlighting top Product, Top Brand, and Top Location
+- **Table:** Shelf Life details by Product
+- **Bar Chart:** Expiration Date Count by Product Name
+- **Treemap:** Revenue Distribution by Brand and Location
+- **Pie Chart:** Brand Market Share
 
 ---
 
@@ -66,19 +64,12 @@ It is designed to help businesses understand which products, brands, and locatio
 - Raj brand generated the highest revenue among all brands.
 - Ambient storage provides the longest average shelf life for dairy products.
 
----
-
-📸 Preview
-
-![Dashboard Preview](link-to-your-screenshot-image.png)
-
 
 ---
 
 🤝 Connect with Me
 - LinkedIn: www.linkedin.com/in/pratham-singhal001
-- GitHub: [[Your GitHub Profile](https://github.com/yourusername)
-](https://github.com/PRATHAMSinghal001)
+- GitHub: https://github.com/PRATHAMSinghal001
 ---
 
 > Empowering decisions with data-driven dairy insights! 🧀📈
