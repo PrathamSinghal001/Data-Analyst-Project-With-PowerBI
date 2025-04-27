@@ -8,7 +8,7 @@
 ![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-orange)
 
 
-![Dashboard Preview](https://github.com/yourusername/your-repository-name/blob/main/dashboard.png?raw=true)
+![Dashboard Preview](https://github.com/PrathamSinghal001/Data-Analyst-Project-With-PowerBI/blob/2eabcb9ebb0ac2e492e3f52e12f354e09fac3948/Dairy%20Goods%20Analysis%20Project/Dairy%20Project%20.jpg)
 
 
 ---
