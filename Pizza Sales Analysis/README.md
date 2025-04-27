@@ -8,7 +8,7 @@
 
 
 
-![Pizza Sales Dashboard](link-to-your-uploaded-image.png)
+![Pizza Sales Dashboard](https://github.com/PrathamSinghal001/Data-Analyst-Project-With-PowerBI/blob/6d32ae17742b51d6082fe30996de5e1f9c79b8a2/Pizza%20Sales%20Analysis/Pizza%20Sales%20Project.jpg)
 
 ---
 
