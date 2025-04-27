@@ -75,8 +75,8 @@ To provide actionable insights for freelancers, freelancing platforms, and busin
 
 🤝 Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/pratham-singhal001)
-- [GitHub](https://github.com/PRATHAMSinghal001)
+- LinkedIn: (www.linkedin.com/in/pratham-singhal001)
+- GitHub: (https://github.com/PRATHAMSinghal001)
 
 ---
 
